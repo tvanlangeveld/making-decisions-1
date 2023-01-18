@@ -17,7 +17,7 @@
 
 
 
-// For problems 2-3 use the following lines of code:
+// For problems 2-3 use the following lines of code: hello
 var amysAge = 29;
 var brittanisAge = 34;
 var amysBirthYear = 1991;
